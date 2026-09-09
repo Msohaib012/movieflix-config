@@ -9,8 +9,8 @@
   "update_notes": "Added new servers and improved speed.",
   "apk_url": "https://example.com/movieflix.apk",
   "announcement": {
-    "show": false,
-    "id": "notice_1788958260801",
+    "show": true,
+    "id": "notice_1788959694084",
     "title": "Welcome to MovieFlix!",
     "message": "Enjoy unlimited movies and TV shows!"
   },
@@ -31,9 +31,49 @@
       "color": "#a855f7"
     },
     {
+      "name": "Vidsrc.me",
+      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
+      "color": "#f87171"
+    },
+    {
       "name": "Peachify",
       "url": "https://peachify.top/embed/{type}/{tmdb}?dub=Hindi&accent=E50914",
       "color": "#ff7f50"
+    },
+    {
+      "name": "VidEasy",
+      "url": "https://player.videasy.net/{type}/{tmdb}?color=e50914&nextEpisode=true",
+      "color": "#0ea5e9"
+    },
+    {
+      "name": "Vidzee",
+      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}?color=e50914",
+      "color": "#0278fd"
+    },
+    {
+      "name": "VidFast",
+      "url": "https://vidfast.pro/{type}/{imdb}",
+      "color": "#fbbf24"
+    },
+    {
+      "name": "VidLink",
+      "url": "https://vidlink.pro/{type}/{tmdb}",
+      "color": "#0ea5e9"
+    },
+    {
+      "name": "Premium",
+      "url": "https://rozgarlelo.modiplay.xyz/embed/tmdb/{type}?id={tmdb}",
+      "color": "#fbbf24"
+    },
+    {
+      "name": "2Embed",
+      "url": "https://www.2embed.cc/embed/{imdb}",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "MultiEmbed",
+      "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
+      "color": "#9ca3af"
     }
   ]
 }
