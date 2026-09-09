@@ -14,5 +14,26 @@
     "title": "Welcome to MovieFlix!",
     "message": "Enjoy unlimited movies and TV shows!"
   },
-  "servers": []
+  "servers": [
+    {
+      "name": "Ads Free",
+      "url": "https://vidcore.io/{type}/{tmdb}",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Vid Storm",
+      "url": "https://vidstorm.ru/{type}/{tmdb}",
+      "color": "#22c55e"
+    },
+    {
+      "name": "Hindi",
+      "url": "https://nxsha.space/embed/{type}/{tmdb}",
+      "color": "#a855f7"
+    },
+    {
+      "name": "Peachify",
+      "url": "https://peachify.top/embed/{type}/{tmdb}?dub=Hindi&accent=E50914",
+      "color": "#ff7f50"
+    }
+  ]
 }
