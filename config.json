@@ -4,7 +4,7 @@
   "maintenance_message": "MovieFlix servers are updating. Please check back shortly!",
   "latest_version_code": 1,
   "latest_version_name": "1.0.0",
-  "force_update": true,
+  "force_update": false,
   "update_title": "New Update Available!",
   "update_notes": "Added new servers and improved speed.",
   "apk_url": "https://example.com/movieflix.apk",
