@@ -9,8 +9,8 @@
   "update_notes": "Added new servers and improved speed.",
   "apk_url": "https://example.com/movieflix.apk",
   "announcement": {
-    "show": false,
-    "id": "notice_1788959694084",
+    "show": true,
+    "id": "notice_1788959748065",
     "title": "Welcome to MovieFlix!",
     "message": "Enjoy unlimited movies and TV shows!"
   },
