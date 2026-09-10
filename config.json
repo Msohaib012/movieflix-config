@@ -40,7 +40,7 @@
     },
     {
       "name": "Server 4",
-      "url": "https://nxsha.space/{type}/{tmdb}",
+      "url": "https://nxsha.space/embed/{type}/{tmdb}",
       "color": "#f87171"
     },
     {
