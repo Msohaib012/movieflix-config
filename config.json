@@ -38,42 +38,32 @@
       "color": "#f87171"
     },
     {
-      "name": "Server 5",
+      "name": "Hindi",
       "url": "https://peachify.top/embed/{type}/{tmdb}?dub=Hindi&accent=E50914",
       "color": "#ff7f50"
     },
     {
-      "name": "Server 6",
+      "name": "Hindi",
       "url": "https://player.videasy.net/{type}/{tmdb}?color=e50914&nextEpisode=true",
       "color": "#0ea5e9"
     },
     {
       "name": "Server 7",
-      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}?color=e50914",
-      "color": "#0278fd"
-    },
-    {
-      "name": "Server 8",
       "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 9",
+      "name": "Server 8",
       "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#0ea5e9"
     },
     {
-      "name": "Server 10",
+      "name": "Server 9",
       "url": "https://rozgarlelo.modiplay.xyz/embed/tmdb/{type}?id={tmdb}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 11",
-      "url": "https://www.2embed.cc/embed/{imdb}",
-      "color": "#9ca3af"
-    },
-    {
-      "name": "Server 12",
+      "name": "Server 10",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
     }
