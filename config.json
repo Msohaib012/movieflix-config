@@ -9,10 +9,10 @@
   "update_notes": "",
   "apk_url": "",
   "announcement": {
-    "show": false,
-    "id": "notice_1",
-    "title": "",
-    "message": "",
+    "show": true,
+    "id": "notice_1789051652186",
+    "title": "Special",
+    "message": "Welcom",
     "btn_text": "Got It",
     "btn_url": ""
   },
