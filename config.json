@@ -25,12 +25,12 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidcore.io/{type}/{tmdb}",
+      "url": "https://vidstorm.ru/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
       "name": "Server 2",
-      "url": "https://vidstorm.ru/{type}/{tmdb}",
+      "url": "https://vidcore.io/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
@@ -55,16 +55,11 @@
     },
     {
       "name": "Server 7",
-      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}?color=e50914",
-      "color": "#0278fd"
-    },
-    {
-      "name": "Server 8",
       "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 9",
+      "name": "Server 8",
       "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#0ea5e9"
     },
@@ -74,12 +69,7 @@
       "color": "#fbbf24"
     },
     {
-      "name": "Server 11",
-      "url": "https://www.2embed.cc/embed/{imdb}",
-      "color": "#9ca3af"
-    },
-    {
-      "name": "Server 12",
+      "name": "Server 10",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
     }
