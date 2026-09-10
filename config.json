@@ -25,22 +25,22 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidstorm.ru/{type}/{tmdb}",
+      "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
       "name": "Server 2",
-      "url": "https://vidcore.io/{type}/{tmdb}",
+      "url": "https://vidstorm.ru/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
       "name": "Server 3",
-      "url": "https://nxsha.space/embed/{type}/{tmdb}",
+      "url": "https://vidcore.io/{type}/{tmdb}",
       "color": "#a855f7"
     },
     {
       "name": "Server 4",
-      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
+      "url": "https://nxsha.space/{type}/{tmdb}",
       "color": "#f87171"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "name": "Server 8",
-      "url": "https://vidlink.pro/{type}/{tmdb}",
+      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#0ea5e9"
     },
     {
