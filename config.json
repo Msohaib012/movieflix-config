@@ -44,12 +44,12 @@
       "color": "#f87171"
     },
     {
-      "name": "Server 5",
+      "name": "Hindi",
       "url": "https://peachify.top/embed/{type}/{tmdb}?dub=Hindi&accent=E50914",
       "color": "#ff7f50"
     },
     {
-      "name": "Server 6",
+      "name": "Hindi",
       "url": "https://player.videasy.net/{type}/{tmdb}?color=e50914&nextEpisode=true",
       "color": "#0ea5e9"
     },
@@ -69,7 +69,7 @@
       "color": "#0ea5e9"
     },
     {
-      "name": "Server 10",
+      "name": "Hindi",
       "url": "https://rozgarlelo.modiplay.xyz/embed/tmdb/{type}?id={tmdb}",
       "color": "#fbbf24"
     },
