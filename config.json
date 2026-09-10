@@ -1,31 +1,25 @@
 {
   "app_status": "active",
-  "maintenance_title": "Maintenance Mode",
-  "maintenance_message": "MovieFlix servers are updating. Please check back shortly!",
+  "maintenance_title": "App Under Maintenance",
+  "maintenance_message": "We are upgrading our servers for smoother streaming. Please check back shortly!",
   "latest_version_code": 1,
   "latest_version_name": "1.0.0",
   "force_update": false,
   "update_title": "New Update Available!",
-  "update_notes": "Added new servers and improved speed.",
-  "apk_url": "https://example.com/movieflix.apk",
+  "update_notes": "",
+  "apk_url": "",
   "announcement": {
     "show": false,
-    "id": "notice_1788960541074",
-    "title": "Welcome to MovieFlix!",
-    "message": "Enjoy unlimited movies and TV shows!",
+    "id": "notice_1",
+    "title": "",
+    "message": "",
     "btn_text": "Got It",
     "btn_url": ""
-  },
-  "push_notification": {
-    "id": "notif_1789028146840",
-    "title": "New update",
-    "message": "Live",
-    "timestamp": 1789028146840
   },
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidlink.pro/{type}/{tmdb}",
+      "url": "https://vidcore.io/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
@@ -35,41 +29,51 @@
     },
     {
       "name": "Server 3",
-      "url": "https://vidcore.io/{type}/{tmdb}",
+      "url": "https://nxsha.space/embed/{type}/{tmdb}",
       "color": "#a855f7"
     },
     {
       "name": "Server 4",
-      "url": "https://nxsha.space/embed/{type}/{tmdb}",
+      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#f87171"
     },
     {
-      "name": "Hindi",
+      "name": "Server 5",
       "url": "https://peachify.top/embed/{type}/{tmdb}?dub=Hindi&accent=E50914",
       "color": "#ff7f50"
     },
     {
-      "name": "Hindi",
+      "name": "Server 6",
       "url": "https://player.videasy.net/{type}/{tmdb}?color=e50914&nextEpisode=true",
       "color": "#0ea5e9"
     },
     {
       "name": "Server 7",
+      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}?color=e50914",
+      "color": "#0278fd"
+    },
+    {
+      "name": "Server 8",
       "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 8",
-      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
+      "name": "Server 9",
+      "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#0ea5e9"
     },
     {
-      "name": "Hindi",
+      "name": "Server 10",
       "url": "https://rozgarlelo.modiplay.xyz/embed/tmdb/{type}?id={tmdb}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 10",
+      "name": "Server 11",
+      "url": "https://www.2embed.cc/embed/{imdb}",
+      "color": "#9ca3af"
+    },
+    {
+      "name": "Server 12",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
     }
