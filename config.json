@@ -19,7 +19,7 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidcore.io/{type}/{tmdb}",
+      "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#22c55e"
     },
     {
@@ -29,12 +29,12 @@
     },
     {
       "name": "Server 3",
-      "url": "https://nxsha.space/embed/{type}/{tmdb}",
+      "url": "https://vidcore.io/{type}/{tmdb}",
       "color": "#a855f7"
     },
     {
       "name": "Server 4",
-      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
+      "url": "https://nxsha.space/embed/{type}/{tmdb}",
       "color": "#f87171"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Server 8",
-      "url": "https://vidfast.pro/{type}/{imdb}",
+      "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#fbbf24"
     },
     {
