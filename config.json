@@ -9,7 +9,7 @@
   "update_notes": "",
   "apk_url": "",
   "announcement": {
-    "show": true,
+    "show": false,
     "id": "notice_1789051652186",
     "title": "Special",
     "message": "Welcom",
