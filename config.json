@@ -18,7 +18,7 @@
   },
   "servers": [
     {
-      "name": "Server 1",
+      "name": "Hindi",
       "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#22c55e"
     },
