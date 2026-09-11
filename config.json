@@ -19,7 +19,7 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidfast.pro/{type}/{imdb}",
+      "url": "https://vidlink.pro/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "name": "Server 8",
-      "url": "https://vidlink.pro/{type}/{tmdb}",
+      "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#0ea5e9"
     },
     {
