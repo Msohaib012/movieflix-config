@@ -2,7 +2,7 @@
   "app_status": "active",
   "maintenance_title": "App Under Maintenance",
   "maintenance_message": "We are upgrading our servers for smoother streaming. Please check back shortly!",
-  "latest_version_code": 3,
+  "latest_version_code": 4,
   "latest_version_name": "1.0.0",
   "force_update": true,
   "update_title": "New Update Available!",
