@@ -14,7 +14,7 @@
     "title": "Special",
     "message": "Welcom",
     "btn_text": "Got It",
-    "btn_url": "https://vidfast.pro/{type}/{imdb}"
+    "btn_url": ""
   },
   "servers": [
     {
