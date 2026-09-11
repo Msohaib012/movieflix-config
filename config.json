@@ -4,7 +4,7 @@
   "maintenance_message": "We are upgrading our servers for smoother streaming. Please check back shortly!",
   "latest_version_code": 4,
   "latest_version_name": "1.0.0",
-  "force_update": true,
+  "force_update": false,
   "update_title": "New Update Available!",
   "update_notes": "",
   "apk_url": "https://vidfast.pro/{type}/{imdb}",
