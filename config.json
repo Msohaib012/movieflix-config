@@ -9,12 +9,12 @@
   "update_notes": "",
   "apk_url": "",
   "announcement": {
-    "show": false,
-    "id": "notice_1789098888849",
-    "title": "Special",
-    "message": "Welcom",
-    "btn_text": "Got It",
-    "btn_url": ""
+    "show": true,
+    "id": "notice_1789234244036",
+    "title": "🎬 Welcome to ArenaFlix!",
+    "message": "Stay updated with new features & updates. Join our WhatsApp Channel",
+    "btn_text": "Whatsapp Channel",
+    "btn_url": "https://whatsapp.com/channel/0029VaeFfBv9MF98D6WX1X3z"
   },
   "servers": [
     {
