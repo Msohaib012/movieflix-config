@@ -92,13 +92,6 @@
       "name": "Server 10",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
-    },
-    {
-      "name": "Server 11",
-      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}",
-      "movie_url": "https://viduki.net/1/movie/{tmdb}?color=E50914",
-      "tv_url": "https://viduki.net/1/tv/{tmdb}/{season}/{episode}?color=E50914",
-      "color": "#e50914"
     }
   ]
 }
