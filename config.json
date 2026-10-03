@@ -95,7 +95,7 @@
     },
     {
       "name": "Server 11",
-      "url": "https://viduki.net/1//{type}/{tmdb}/{season}/{episode}?color={hex",
+      "url": "https://viduki.net/1//{type}/{tmdb}?color={hex",
       "color": "#22c55e"
     }
   ]
