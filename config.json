@@ -18,11 +18,11 @@
       "url": "https://t.me/arenaflix_official"
     },
     "whatsapp": {
-      "show": true,
+      "show": false,
       "url": "https://whatsapp.com/channel/0029VaeFfBv9MF98D6WX1X3z"
     },
     "telegram_group": {
-      "show": true,
+      "show": false,
       "url": "https://t.me/arenaflix_chat"
     },
     "request": {
@@ -30,7 +30,7 @@
       "url": "https://t.me/arenaflix_official"
     },
     "website": {
-      "show": true,
+      "show": false,
       "url": "https://arenaflix.com"
     }
   },
