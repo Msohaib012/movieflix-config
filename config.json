@@ -95,7 +95,7 @@
     },
     {
       "name": "Server 11",
-      "url": "https://viduki.net/1//{type}/{tmdb}?color={hex",
+      "url": "https://viduki.net/1/{type}/{tmdb}?color=E50914",
       "color": "#22c55e"
     }
   ]
