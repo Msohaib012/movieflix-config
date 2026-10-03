@@ -92,6 +92,11 @@
       "name": "Server 10",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
+    },
+    {
+      "name": "Server 11",
+      "url": "https://viduki.net/1//{type}/{tmdb}/{season}/{episode}?color={hex",
+      "color": "#22c55e"
     }
   ]
 }
