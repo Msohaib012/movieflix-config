@@ -94,11 +94,11 @@
       "color": "#9ca3af"
     },
     {
-  "name": "Server 11",
-  "url": "https://viduki.net/1/{type}/{tmdb}?color=E50914",
-  "movie_url": "https://viduki.net/1/movie/{tmdb}?color=E50914",
-  "tv_url": "https://viduki.net/1/tv/{tmdb}/{season}/{episode}?color=E50914",
-  "color": "#e50914"
+      "name": "Server 11",
+      "url": "https://viduki.net/1/{type}/{tmdb}?color=E50914",
+      "movie_url": "https://viduki.net/1/movie/{tmdb}?color=E50914",
+      "tv_url": "https://viduki.net/1/tv/{tmdb}/{season}/{episode}?color=E50914",
+      "color": "#e50914"
     }
   ]
 }
