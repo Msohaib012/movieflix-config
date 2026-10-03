@@ -95,7 +95,7 @@
     },
     {
       "name": "Server 11",
-      "url": "https://player.vidzee.wtf/embed/{type}/{tmdb}",
+      "url": "https://www.vidy.st/{type}/{tmdb}",
       "color": "#22c55e"
     }
   ]
