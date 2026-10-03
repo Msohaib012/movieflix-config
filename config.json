@@ -8,6 +8,32 @@
   "update_title": "New Update Available!",
   "update_notes": "",
   "apk_url": "",
+  "notice": {
+    "show": true,
+    "text": "🎬 Welcome to ArenaFlix! Enjoy unlimited 4K streaming."
+  },
+  "social_links": {
+    "telegram": {
+      "show": false,
+      "url": "https://t.me/arenaflix_official"
+    },
+    "whatsapp": {
+      "show": true,
+      "url": "https://whatsapp.com/channel/0029VaeFfBv9MF98D6WX1X3z"
+    },
+    "telegram_group": {
+      "show": true,
+      "url": "https://t.me/arenaflix_chat"
+    },
+    "request": {
+      "show": true,
+      "url": "https://t.me/arenaflix_official"
+    },
+    "website": {
+      "show": true,
+      "url": "https://arenaflix.com"
+    }
+  },
   "announcement": {
     "show": true,
     "id": "notice_1789234244036",
