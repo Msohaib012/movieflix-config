@@ -59,7 +59,7 @@
       "color": "#a855f7"
     },
     {
-      "name": "Multilanguage",
+      "name": "Hindi",
       "url": "https://nxsha.space/embed/{type}/{tmdb}",
       "color": "#f87171"
     },
@@ -69,7 +69,7 @@
       "color": "#ff7f50"
     },
     {
-      "name": "Fast - English",
+      "name": "English",
       "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#fbbf24"
     },
@@ -79,7 +79,7 @@
       "color": "#0ea5e9"
     },
     {
-      "name": "Main - Hindi",
+      "name": "Hindi",
       "url": "https://rozgarlelo.modiplay.xyz/embed/tmdb/{type}?id={tmdb}",
       "color": "#fbbf24"
     },
