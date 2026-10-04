@@ -49,12 +49,12 @@
       "color": "#22c55e"
     },
     {
-      "name": "Main - 1",
+      "name": "Main",
       "url": "https://vidstorm.ru/{type}/{tmdb}",
       "color": "#22c55e"
     },
     {
-      "name": "Main - 2",
+      "name": "Backup",
       "url": "https://vidcore.io/{type}/{tmdb}",
       "color": "#a855f7"
     },
@@ -69,12 +69,12 @@
       "color": "#ff7f50"
     },
     {
-      "name": "English - Fast",
+      "name": "Fast - English",
       "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 7",
+      "name": "Backup",
       "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#0ea5e9"
     },
@@ -84,12 +84,12 @@
       "color": "#fbbf24"
     },
     {
-      "name": "Backup - 2",
+      "name": "Backup",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
     },
     {
-      "name": "Main - 3",
+      "name": "Main",
       "url": "https://www.vidy.st/{type}/{tmdb}",
       "color": "#22c55e"
     }
