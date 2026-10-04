@@ -44,7 +44,7 @@
   },
   "servers": [
     {
-      "name": "Server 1",
+      "name": "Arenaflix - Hindi",
       "url": "https://arenaflix-hls-player.vercel.app/api/watch/{type}/{tmdb}?season={season}&episode={episode}",
       "color": "#22c55e"
     },
@@ -69,17 +69,12 @@
       "color": "#ff7f50"
     },
     {
-      "name": "Hindi",
-      "url": "https://player.videasy.net/{type}/{tmdb}?color=e50914&nextEpisode=true",
-      "color": "#0ea5e9"
-    },
-    {
-      "name": "Server 7",
+      "name": "Server 6",
       "url": "https://vidsrc.me/embed/{type}?imdb={imdb}&season={season}&episode={episode}",
       "color": "#fbbf24"
     },
     {
-      "name": "Server 8",
+      "name": "Server 7",
       "url": "https://vidfast.pro/{type}/{imdb}",
       "color": "#0ea5e9"
     },
@@ -89,12 +84,12 @@
       "color": "#fbbf24"
     },
     {
-      "name": "Server 10",
+      "name": "Server 8",
       "url": "https://multiembed.mov/?video_id={tmdb}&tmdb=1",
       "color": "#9ca3af"
     },
     {
-      "name": "Server 11",
+      "name": "Server 9",
       "url": "https://www.vidy.st/{type}/{tmdb}",
       "color": "#22c55e"
     }
