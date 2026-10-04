@@ -97,11 +97,6 @@
       "name": "Server 11",
       "url": "https://www.vidy.st/{type}/{tmdb}",
       "color": "#22c55e"
-    },
-    {
-      "name": "Server 12",
-      "url": "https://arenaflix-hls-player.vercel.app/api/watch/{type}/{tmdb}?season={season}&episode={episode}",
-      "color": "#22c55e"
     }
   ]
 }
