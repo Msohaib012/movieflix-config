@@ -45,7 +45,7 @@
   "servers": [
     {
       "name": "Server 1",
-      "url": "https://vidlink.pro/{type}/{tmdb}",
+      "url": "https://arenaflix-hls-player.vercel.app/api/watch/{type}/{tmdb}?season={season}&episode={episode}",
       "color": "#22c55e"
     },
     {
