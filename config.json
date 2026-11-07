@@ -44,8 +44,8 @@
   },
   "servers": [
     {
-      "name": "Arenaflix - Hindi",
-      "url": "https://arenaflix-hls-player.vercel.app/api/watch/{type}/{tmdb}?season={season}&episode={episode}",
+      "name": "Arenaflix",
+      "url": "https://arenaflix.co.uk/player/?type={type}&tmdb={tmdb}&s={season}&e={episode}",
       "color": "#22c55e"
     },
     {
